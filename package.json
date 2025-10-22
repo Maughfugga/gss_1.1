@@ -1,0 +1,18 @@
+{
+  "name": "gss-1.1",
+  "version": "1.0.0",
+  "description": "GSS 1.1 - Professional Web Solutions hosted on Cloudflare",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "preview": "python3 -m http.server 8080"
+  },
+  "keywords": [
+    "cloudflare",
+    "static-site",
+    "web",
+    "gss"
+  ],
+  "author": "GSS 1.1",
+  "license": "MIT"
+}
